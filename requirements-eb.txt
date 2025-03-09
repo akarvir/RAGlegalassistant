@@ -1,0 +1,11 @@
+gunicorn==22.0.0
+psycopg2-binary==2.9.9
+uvicorn==0.23.2
+fastapi==0.115.11
+python-dotenv==1.0.1
+langchain==0.2.17
+langchain-community==0.0.16
+langchain-core==0.1.17
+langchain-openai==0.0.2
+openai==1.65.4
+pgvector==0.3.6

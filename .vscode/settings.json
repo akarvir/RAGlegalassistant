@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./importer"
+    ],
+    "python.REPL.enableREPLSmartSend": false
+}

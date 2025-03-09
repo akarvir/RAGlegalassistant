@@ -1,0 +1,16 @@
+Connection string: postgresql+psycopg2://postgres:O9AZPFhOSN0A53pxVKGO@pdfragvectors.ce94sqm22qqt.us-east-1.rds.amazonaws.com:5432/postgres
+Parsed connection parameters:
+  Host: pdfragvectors.ce94sqm22qqt.us-east-1.rds.amazonaws.com
+  Port: 5432
+  Database: postgres
+  Username: postgres
+  Password: ********************
+
+Attempting connection with psycopg2...
+Connection successful!
+
+Testing database operations...
+Test record created: (2, 'eb_deployment_test', datetime.datetime(2025, 3, 9, 21, 56, 6, 137130))
+Database operations completed successfully!
+
+All tests passed successfully!

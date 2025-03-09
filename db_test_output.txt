@@ -1,0 +1,10 @@
+Connection string: postgresql://postgres:O9AZPFhOSN0A53pxVKGO@pdfragvectors.ce94sqm22qqt.us-east-1.rds.amazonaws.com:5432/postgres
+Attempting direct psycopg connection...
+Direct connection successful!
+
+Parsing connection string...
+Connection string doesn't start with 'postgresql+psycopg://'
+
+Trying with modified connection string...
+Modified connection string: postgresql://postgres:O9AZPFhOSN0A53pxVKGO@pdfragvectors.ce94sqm22qqt.us-east-1.rds.amazonaws.com:5432/postgres
+Connection with modified string successful!
